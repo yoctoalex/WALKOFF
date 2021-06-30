@@ -1,15 +1,15 @@
 pydantic == 0.32.2
 docker
 docker-compose
+aioredis == 1.3.0
 minio
 aiodocker == 0.14.0
 pyyaml
 aiohttp
 async_timeout
-fastapi
+fastapi == 0.60.2
 six
 redis
-uvicorn
+uvicorn == 0.12.3
 tenacity
-pydantic == 0.32.2
 email-validator

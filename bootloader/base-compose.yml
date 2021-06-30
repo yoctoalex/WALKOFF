@@ -90,7 +90,7 @@ services:
     command: --port 27016
 
   debug_mongo_express:
-    image: mongo-express:latest
+    image: mongo-express:0.54.0
     networks:
       - walkoff_network
     ports:

@@ -2,7 +2,7 @@ pydantic == 0.32.2
 #aiodns
 aiodocker
 aiohttp
-aioredis
+aioredis == 1.3.0
 redis
 #cchardet
 docker
@@ -11,7 +11,7 @@ pyyaml
 cryptography
 sphinxcontrib-openapi
 m2r
-minio
-uvicorn
-fastapi
+minio == 6.0.2
+uvicorn == 0.12.3
+fastapi == 0.60.2
 

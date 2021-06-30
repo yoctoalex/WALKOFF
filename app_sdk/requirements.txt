@@ -1,9 +1,10 @@
 aiohttp
 pyyaml
-asteval
+asteval == 0.9.16
+aioredis == 1.3.0
 cryptography
 six
 tenacity
-python-socketio
+python-socketio == 4.6.1
 requests
 websocket-client

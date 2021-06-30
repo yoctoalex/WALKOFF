@@ -5,22 +5,21 @@ passlib >= 1.7.0
 semver
 jsonschema == 2.6.0
 redis
-aioredis
+aioredis == 1.3.0
 requests
 jsonpatch
-asteval
+asteval == 0.9.16
 cryptography
 tenacity
-uvicorn
-fastapi
+uvicorn == 0.12.3
+fastapi == 0.60.2
 email-validator
 motor
 aiofiles
 python-multipart
 pyjwt
-python-socketio
+python-socketio == 4.6.1
 websocket-client
-minio
+minio == 6.0.2
 aiodocker == 0.14.0
 docker
-pydantic == 0.32.2

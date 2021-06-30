@@ -1,6 +1,7 @@
 #aiodns
 aiodocker
 aiohttp
+aioredis == 1.3.0
 #cchardet
 docker
 docker-compose
